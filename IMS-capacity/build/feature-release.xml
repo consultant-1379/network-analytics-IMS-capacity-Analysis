@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+    <product-id>CNA 403 3469</product-id>
+    <feature-name>Ericsson-IMS-Capacity-Analysis</feature-name>
+    <release>21.4</release>
+    <system-area>IMS/IMS-Analysis</system-area>
+    <datasource-guid>469c6891-13b7-461c-be72-114e50a54858</datasource-guid>
+    <ericsson-library>true</ericsson-library>
+</feature>
